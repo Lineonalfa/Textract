@@ -12,7 +12,7 @@
       <centered>
         <left><h2>Netboks Kids</h2></left>
         <mid></mid>
-        <right></right>
+        <right><p>Menu &#9776;</p></right>
       </centered>
     </header>
 <!--Header end-->
