@@ -10,7 +10,7 @@
     <!--Header-->
     <header>
       <centered>
-        <left></left>
+        <left><h2>Netboks Kids</h2></left>
         <mid></mid>
         <right></right>
       </centered>
