@@ -20,9 +20,20 @@
 <!--Main-->
   <main>
     <aside></aside>
-    <page_body></page_body>
+    <page_body>
+      <article id="hero">
+        <div id="tag-box"></div>
+        <div id="img-box"></div>
+      </article>
+      <section id="features">
+        
+      </section>
+      <article id="hero"></article>
+    </page_body>
   </main>
 <!--Main end-->
     
   </body>
 </html>
+
+
